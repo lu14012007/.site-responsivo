@@ -32,11 +32,18 @@
     display: none;
     position: absolute;
     top: 100%;
+    width: ;
 }
 
 .container-botao:checked~.lista-menu{
     display: block;
 }
+
+.menu-item, .menu-item-titulo{
+    padding: 1em;
+    background-color: var(--branco);
+}
+
 
 @media screen and (min-width: 1024px) {
     .cabecalho-titulo {
