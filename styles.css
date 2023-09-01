@@ -2,7 +2,10 @@
 
 :root{
 --cor-de-fundo:#EBECEE;
---branco: #FFFFFF
+--branco: #FFFFFF;
+--azul-degrade: #326589;
+--laranja:#EB9B00;
+
 }
 
 body{
