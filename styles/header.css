@@ -53,13 +53,13 @@
     .menu-item-titulo {
     color: var(--laranja);
     }
-
-    .container-botao{
-        display: none;
+    
+    .container-botao {
+    display: none;
     }
-
+    
     .container-titulo-negrito {
-        font-weight: 700;
+    font-weight: 700;
     }
     
     @media screen and (min-width: 1024px) {
