@@ -24,7 +24,7 @@
     .card-1{
         display: flex;
         justify-content: space-between;
-        margin-bottom: 0.5em
+        margin-bottom: 0.5em;
     }
 
     .card-2{
@@ -61,4 +61,3 @@
         font-weight: 700;
         text-decoration: none;
         }
-        
